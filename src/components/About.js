@@ -14,7 +14,6 @@ export default function About() {
       <ul className="space-y-2 text-gray-700 mb-6">
         <li><span className="font-semibold">Name:</span> Tshepang Mohlamonyane</li>
         <li><span className="font-semibold">DOB:</span> January 05, 2004</li>
-        <li><span className="font-semibold">Address:</span> 1176 Jabulani, D3 Dennilton, Limpopo</li>
         <li><span className="font-semibold">Email:</span> tshepangjuniorm@gmail.com</li>
         <li><span className="font-semibold">Phone:</span> +27 82 5587 566</li>
       </ul>
