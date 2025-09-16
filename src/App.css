@@ -505,3 +505,53 @@ body.dark .contact-form input[type="submit"]:hover {
     padding: 1rem;
   }
 }
+/* Social Links Section */
+.social-links {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center;
+  gap: 20px; /* space between icons */
+  margin-top: 20px;
+}
+
+/* Keep your custom colors for each label */
+.social-links .linkedin {
+  color: #0077b5;
+  font-size: 1.8rem;
+  transition: transform 0.2s ease, color 0.3s ease;
+}
+.social-links .linkedin:hover {
+  transform: scale(1.2);
+  color: #005582;
+}
+
+.social-links .facebook {
+  color: #1877f2;
+  font-size: 1.8rem;
+  transition: transform 0.2s ease, color 0.3s ease;
+}
+.social-links .facebook:hover {
+  transform: scale(1.2);
+  color: #0e5aaf;
+}
+
+.social-links .whatsapp {
+  color: #25d366;
+  font-size: 1.8rem;
+  transition: transform 0.2s ease, color 0.3s ease;
+}
+.social-links .whatsapp:hover {
+  transform: scale(1.2);
+  color: #128c7e;
+}
+.social-links .github {
+  color: #333;
+  font-size: 1.8rem;
+  transition: transform 0.2s ease, color 0.3s ease;
+}
+.social-links .github:hover {
+  transform: scale(1.2);
+  color: #000;
+}
+
+
