@@ -5,7 +5,7 @@ const projects = [
     name: "Chime (Chat App)",
     desc: "Chime; a real-time, encrypted messaging app built with Node.js. It combines security, speed, and a sleek mobile-first interface, allowing users to chat safely with end-to-end encryption and instant message delivery",
     github: "https://github.com/JM0501/chime_mobile",
-    access: "https://drive.google.com/file/d/1m_PZLhpSn-dvf2JzP5PHbzMGxRSInLX-/view?usp=drive_link",
+    access: "https://github.com/JM0501/chime_mobile/releases/download/v1.0.1/chime-v.1.0.1.apk",
   },
   {
     name: "StaffFlow",
